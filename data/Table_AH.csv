@@ -1,0 +1,6 @@
+﻿SMILES;Enamine ID;Rank;CLogP (o/w);"Molecular Weight (MW; g · mol-1)"
+O=C(NCC1OCCN(c2ncnc3[nH]cnc23)C1)C1(c2cc(OC)ccc2)CCCC1;Z1451076360;3;2.12;436.52
+O(CCn1c(CNC2c3c(c(O)ccc3)CCC2)nc2N(CCC)C(=O)NC(=O)c12)C;Z1845591670;7;2.28;427.51
+O=C(N(Cc1cc(OC)c(OC)cc1)C1C(C)CCCC1)Cn1c2ncnc(N)c2nc1;Z1581652431;8;2.78;438.53
+O(C)c1c(CC2(O)CCN(c3nc(O)c4n(C)cnc4n3)CC2)cccc1;Z3718884828;8;2.14;369.42
+O=C(C(C)n1c2ncnc(N)c2nc1)N1[C@H](c2c(OC)cccc2)C[C@H](C)CC1;Z2719771317;9;2.62;394.48

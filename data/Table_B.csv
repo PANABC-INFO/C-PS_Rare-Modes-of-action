@@ -1,0 +1,244 @@
+﻿Substructure Identifier;Substructure Name;Substructure SMILES;Number of Hits in ABCC1 Activation-focused Dataset (174);Percentage amongst 174 Compounds;Number of Hits in 18 Classes;Percentage amongst 18 Classes;Total Number of Hydrogens in Substructure;Number of Defined Hydrogens in Substructure;Number of Variable Hydrogens in Substructure;Number of Heavy Atoms in Substructure;Average Flexibility;Entire Landscape Fraction / Average Flexibility - Quotient;Chemical Classes Fraction / Average Flexibility - Quotient
+Substructure_0001;methylene;C;175;100;18;100;4;0;4;1;4.00;0.25;0.250
+Substructure_0002;ethylene;CC;162;92.6;17;94.4;6;0;6;2;3.00;0.31;0.315
+Substructure_0003;phenyl-R;[R]C1=CC=CC=C1;158;90.3;17;94.4;6;0;6;6;1.00;0.90;0.944
+Substructure_0006;dimethylamine-R;CNC;84;48.0;14;77.8;7;0;7;3;2.33;0.21;0.334
+Substructure_0007;ether;[R]O[R];96;54.9;12;66.7;2;0;2;1;2.00;0.27;0.333
+Substructure_0008;propylene;CCC;97;55.4;17;94.4;8;0;8;3;2.67;0.21;0.354
+Substructure_0009;phenol-R;OC1=CC=CC=C1;130;74.3;12;66.7;6;0;6;7;0.857;0.86;0.775
+Substructure_0012;aniline-R;NC1=CC=CC=C1;29;16.6;12;66.7;7;0;7;7;1.00;0.17;0.667
+Substructure_0013;"methoxy, defined (3H; CH)";[R]OC([H])([H])[H];63;36.0;12;66.7;4;3;1;2;0.500;0.72;1.33
+Substructure_0014;methylethylamine-R;CNCC;84;48.0;14;77.8;9;0;9;4;2.25;0.21;0.346
+Substructure_0015;"methoxy-H-phenyl, defined (3H; CH)";[H]C([H])([H])OC1=CC=CC=C1;58;33.1;10;55.6;8;3;5;8;0.625;0.53;0.882
+Substructure_0022;diethylamine-R;CCNCC;66;37.7;11;61.1;11;0;11;5;2.20;0.17;0.278
+Substructure_0023;trimethylamino-R;CN(C)C;47;26.9;6;33.3;9;0;9;4;2.25;0.12;0.148
+Substructure_0024;pyrimidine;C1=CC=NC=N1;10;5.71;2;11.1;4;0;4;6;0.667;0.09;0.166
+Substructure_0026;benzoyl;[R]C(C1=CC=CC=C1)=O;9;5.14;7;38.9;6;0;6;8;0.750;0.07;0.519
+Substructure_0028;methylpropylamine-R;CNCCC;72;41.1;10;55.6;11;0;11;5;2.20;0.19;0.253
+Substructure_0033;ethylpropylamine-R;CCNCCC;59;33.7;8;44.4;13;0;13;6;2.17;0.16;0.205
+Substructure_0035;"benzyl-R, defined (2H; CH)";[H]C([H])([R])C1=CC=CC=C1;52;29.7;8;44.4;8;2;6;7;0.857;0.35;0.517
+Substructure_0036;butylene;CCCC;71;40.6;13;72.2;10;0;10;4;2.50;0.16;0.289
+Substructure_0037;R-amid-N-R-R;[R]C(N[R])=O;27;15.4;7;38.9;3;0;3;3;1.00;0.15;0.389
+Substructure_0041;"R-amid-N-H-R, defined (1H; NH)";[R]C(N([H])[R])=O;26;14.9;6;33.3;3;1;2;3;0.667;0.22;0.498
+Substructure_0042;pentylene;CCCCC;62;35.4;10;55.6;12;0;12;5;2.40;0.15;0.231
+Substructure_0044;"hydroxy-H, defined (1H; OH)";[R]O[H];94;53.7;11;61.1;2;1;1;1;1.00;0.54;0.611
+Substructure_0046;pyridine;C1=CC=CC=N1;1;0.571;1;5.56;5;0;5;6;0.833;0.01;0.0669
+Substructure_0049;"phenethyl-R, defined (4H; CH)";[H]C([H])(C([H])([R])[H])C1=CC=CC=C1;33;18.9;5;27.8;10;4;6;8;0.750;0.25;0.370
+Substructure_0053;"4-hydroxy-R-phenyl-R, defined (4H; CH)";[R]C1=C(C([H])=C(O)C([H])=C1[H])[H];42;24.0;3;16.7;6;4;2;7;0.286;0.83;0.575
+Substructure_0055;"3,4-dihydroxy-R-phenyl-R, defined (3H; CH)";[R]C1=C(C([H])=C(C(O)=C1[H])O)[H];35;20.0;2;11.1;6;3;3;8;0.375;0.53;0.292
+Substructure_0056;resorcin-R;OC1=CC(O)=CC=C1;68;38.9;6;33.3;6;0;6;8;0.750;0.52;0.444
+Substructure_0059;isobutane;CC(C)C;32;18.3;8;44.4;10;0;10;4;2.50;0.07;0.178
+Substructure_0061;nitro-R;[R][N+]([O-])=O;1;0.571;1;5.56;1;0;1;3;0.333;0.02;0.168
+Substructure_0062;"phenol-H, defined (1H; OH)";[H]OC1=CC=CC=C1;69;39.4;7;38.9;6;1;5;7;0.714;0.56;0.548
+Substructure_0063;hexylene;CCCCCC;25;14.3;7;38.9;14;0;14;6;2.33;0.06;0.167
+Substructure_0065;dipropylamin-R;CCCNCCC;42;24.0;5;27.8;15;0;15;7;2.14;0.11;0.130
+Substructure_0068;"3,4-dimethoxy-H-phenyl-R, defined (9H; CH)";[R]C1=C([H])C([H])=C(OC([H])([H])[H])C(OC([H])([H])[H])=C1[H];31;17.7;1;5.56;10;9;1;10;0.100;1.77;0.556
+Substructure_0070;methylbutylamine-R;CNCCCC;63;36.0;9;50.0;13;0;13;6;2.17;0.17;0.230
+Substructure_0072;"ethylene-H-diamine-R, defined (4H; CH)";NC([H])([H])C([H])([H])N;10;5.71;5;27.8;8;4;4;4;1.00;0.06;0.278
+Substructure_0074;piperazine-R;C1CNCCN1;7;4.00;3;16.7;10;0;10;6;1.67;0.02;0.100
+Substructure_0076;"piperazine-R, defined (8H; CH)";[H]C1([H])C([H])([H])NC([H])([H])C([H])([H])N1;6;3.43;2;11.1;10;8;2;6;0.333;0.10;0.337
+Substructure_0077;fluorine-R;[R]F;8;4.57;3;16.7;1;0;1;1;1.00;0.05;0.167
+Substructure_0078;cyano;[R]C#N;22;12.6;2;11.1;1;0;1;2;0.500;0.25;0.222
+Substructure_0079;pyrrole-R;C1=CC=CN1;10;5.71;4;22.2;5;0;5;5;1.00;0.06;0.222
+Substructure_0080;methylpentylamine-R;CNCCCCC;55;31.4;5;27.8;15;0;15;7;2.14;0.15;0.130
+Substructure_0082;ethylbutylamine-R;CCNCCCC;56;32.0;7;38.9;15;0;15;7;2.14;0.15;0.182
+Substructure_0083;isopentane;CC(CC)C;26;14.9;6;33.3;12;0;12;5;2.40;0.06;0.139
+Substructure_0087;"2-hydroxy-H-phenyl-R, defined (1H; OH)";[R]C1=CC=CC=C1O[H];62;35.4;7;38.9;6;1;5;7;0.714;0.50;0.548
+Substructure_0088;heptylene;CCCCCCC;4;2.29;3;16.7;16;0;16;7;2.29;0.01;0.0728
+Substructure_0089;ethanol-R-amine-R;NCCO;28;16.0;8;44.4;7;0;7;4;1.75;0.09;0.254
+Substructure_0090;ethylpentylamine-R;CCNCCCCC;53;30.3;4;22.2;17;0;17;8;2.13;0.14;0.104
+Substructure_0093;"4-methoxy-H-phenyl-R, defined (7H; CH)";[R]C1=C([H])C([H])=C(C([H])=C1[H])OC([H])([H])[H];2;1.14;2;11.1;8;7;1;8;0.125;0.09;0.855
+Substructure_0094;chlorine-R;[R]Cl;6;3.43;3;16.7;1;0;1;1;1.00;0.03;0.167
+Substructure_0095;"4-hydroxy-H-phenyl-R, defined (1H; OH)";[R]C1=CC=C(O[H])C=C1;58;33.1;6;33.3;6;1;5;7;0.714;0.47;0.469
+Substructure_0096;3-pyridyl-R;[R]C1=CC=C[N]=C1;1;0.571;1;5.56;6;1;5;6;0.833;0.01;0.0669
+Substructure_0098;"3-hydroxy-R-phenyl-R, defined (4H; CH)";[R]C1=C(C([H])=C(C(O)=C1[H])[H])[H];1;0.571;1;5.56;6;4;2;7;0.286;0.02;0.192
+Substructure_0099;methylhexylamine-R;CNCCCCCC;21;12.0;4;22.2;17;0;17;8;2.13;0.06;0.104
+Substructure_0100;"3-hydroxy-H-phenyl-R, defined (1H; OH)";[R]C1=CC=CC(O[H])=C1;56;32.0;5;27.8;6;1;5;7;0.714;0.45;0.391
+Substructure_0102;octylene;CCCCCCCC;3;1.71;2;11.1;18;0;18;8;2.25;0.01;0.0494
+Substructure_0107;propylbutylamine-R;CCCNCCCC;41;23.4;5;27.8;17;0;17;8;2.13;0.11;0.130
+Substructure_0108;prenyl;C/C(C)=C/C;7;4.00;2;11.1;10;0;10;5;2.00;0.02;0.0556
+Substructure_0110;ethylhexylamine-R;CCNCCCCCC;20;11.4;3;16.7;19;0;19;9;2.11;0.05;0.0790
+Substructure_0111;"3-methoxy-H-phenyl-R, defined (7H; CH)";[R]C1=C([H])C([H])=C([H])C(OC([H])([H])[H])=C1[H];1;0.571;1;5.56;8;7;1;8;0.125;0.04;0.427
+Substructure_0112;thiophene;C1=CC=CS1;1;0.571;1;5.56;4;0;4;5;0.800;0.01;0.0694
+Substructure_0115;9-deazapurine;C1(C=CN2)=C2C=NC=N1;6;3.43;1;5.56;5;0;5;9;0.556;0.06;0.0992
+Substructure_0116;"3,4,5-trihydroxy-R-phenyl-R,defined (2H; CH)";[R]C1=C(C(O)=C(C(O)=C1[H])O)[H];3;1.71;3;16.7;6;2;4;9;0.444;0.04;0.379
+Substructure_0117;"3,4,5-trimethoxy-H-phenyl-R, defined (11H;CH)";[R]C1=C([H])C(OC([H])([H])[H])=C(OC([H])([H])[H])C(OC([H])([H])[H])=C1[H];1;0.571;1;5.56;12;11;1;12;0.0833;0.07;0.694
+Substructure_0118;propanol-R-amine-R;NCCCO;6;3.43;3;16.7;9;0;9;5;1.80;0.02;0.0926
+Substructure_0119;piperidine-R;C1CCCCN1;4;2.29;3;16.7;11;0;11;6;1.83;0.01;0.0911
+Substructure_0120;indole-R;C12=C(C=CC=C2)NC=C1;4;2.29;3;16.7;7;0;7;9;0.778;0.03;0.214
+Substructure_0121;naphthalene;C1(C=CC=C2)=C2C=CC=C1;2;1.14;1;5.56;8;0;8;10;0.800;0.01;0.0694
+Substructure_0122;propylpentylamine-R;CCCNCCCCC;39;22.3;4;22.2;19;0;19;9;2.11;0.11;0.105
+Substructure_0123;cyclohexyl;C1CCCCC1;3;1.71;2;11.1;12;0;12;6;2.00;0.01;0.0556
+Substructure_0125;methylheptylamine-R;CNCCCCCCC;4;2.29;3;16.7;19;0;19;9;2.11;0.01;0.0790
+Substructure_0126;thioether;[R]S[R];35;20.0;5;27.8;2;0;2;1;2.00;0.10;0.139
+Substructure_0127;biphenyl;C1(C2=CC=CC=C2)=CC=CC=C1;1;0.571;1;5.56;10;0;10;12;0.833;0.01;0.0669
+Substructure_0128;"ethanol-R-amine-N-H-R, defined (1H; NH)";OCCN[H];23;13.1;4;22.2;7;1;6;4;1.50;0.09;0.148
+Substructure_0130;"amino-H, defined (2H; NH)";[R]N([H])[H];29;16.6;4;22.2;3;2;1;1;1.00;0.17;0.222
+Substructure_0132;"4-hydroxy-H-phenyl-R, defined (5H; CH, OH)";[R]C1=C(C([H])=C(O[H])C([H])=C1[H])[H];10;5.71;2;11.1;6;5;1;7;0.143;0.41;0.794
+Substructure_0133;trifluoromethane-R;[R]C(F)(F)F;3;1.71;2;11.1;1;0;1;4;0.250;0.07;0.444
+Substructure_0140;nonylene;CCCCCCCCC;3;1.71;2;11.1;20;0;20;9;2.22;0.01;0.0501
+Substructure_0142;bromine-R;[R]Br;1;0.571;1;5.56;1;0;1;1;1.00;0.01;0.0556
+Substructure_0144;flavone;O=C(C=C(C1=CC=CC=C1)O2)C3=C2C=CC=C3;67;38.3;1;5.56;10;0;10;17;0.588;0.65;0.0942
+Substructure_0145;thiophenol;[R]SC1=CC=CC=C1;15;8.57;4;22.2;6;0;6;7;0.857;0.10;0.258
+Substructure_0146;3-chlorophenyl-R;[R]C1=CC=CC(Cl)=C1;4;2.29;1;5.56;5;0;5;7;0.714;0.03;0.0782
+Substructure_0147;"R-carboxylic acid methyl-H-ester, defined (3H; CH)";[R]C(OC([H])([H])[H])=O;3;1.71;2;11.1;4;3;1;4;0.250;0.07;0.444
+Substructure_0149;propylhexylamine-R;CCCNCCCCCC;16;9.14;3;16.7;21;0;21;10;2.10;0.04;0.0794
+Substructure_0150;"3-pyridyl-R, defined (4H; CH)";[H]C1=C([R])C([H])=C([H])C([H])=N1;1;0.571;1;5.56;5;4;1;6;0.167;0.03;0.327
+Substructure_0152;sulfoxid;[R]S([R])=O;5;2.86;1;5.56;2;0;2;2;1.00;0.03;0.0556
+Substructure_0153;sulfone;[R]S([R])(=O)=O;5;2.86;1;5.56;2;0;2;3;0.667;0.04;0.0829
+Substructure_0155;"toluyl, defined (3H; CH)";[H]C([H])([H])C1=CC=CC=C1;11;6.29;3;16.7;8;3;5;7;0.714;0.09;0.235
+Substructure_0157;dibutylamine-R;CCCCNCCCC;9;5.14;4;22.2;19;0;19;9;2.11;0.02;0.105
+Substructure_0158;3-fluorophenyl-R;[R]C1=CC=CC(F)=C1;2;1.14;1;5.56;5;0;5;7;0.714;0.02;0.0782
+Substructure_0159;4-chlorophenyl-R;[R]C1=CC=C(Cl)C=C1;6;3.43;3;16.7;5;0;5;7;0.714;0.05;0.235
+Substructure_0161;butylpentylamine-R;CCCCNCCCCC;9;5.14;4;22.2;21;0;21;10;2.10;0.02;0.106
+Substructure_0162;4-fluorophenyl-R;[R]C1=CC=C(F)C=C1;5;2.86;1;5.56;5;0;5;7;0.714;0.04;0.0782
+Substructure_0165;neopentane;CC(C)(C)C;21;12.0;3;16.7;12;0;12;5;2.40;0.05;0.0694
+Substructure_0166;2-nitrophenyl-R;[R]C1=CC=CC=C1[N+]([O-])=O;1;0.571;1;5.56;5;0;5;9;0.556;0.01;0.0992
+Substructure_0167;"isopropanol-H, defined (1H; OH)";[R]CC(C[R])O[H];8;4.57;5;27.8;8;1;7;4;1.75;0.03;0.159
+Substructure_0168;"isopropanol-H, defined (2H; CH, OH)";[R]CC(C([R])[H])O[H];8;4.57;5;27.8;8;2;6;4;1.50;0.03;0.185
+Substructure_0169;decylene;CCCCCCCCCC;1;0.571;1;5.56;22;0;22;10;2.20;0.00;0.0253
+Substructure_0171;ethylene glycol-R;[R]OCCO[R];33;18.9;3;16.7;6;0;6;4;1.50;0.13;0.111
+Substructure_0174;"resorcin-H, defined (2H; OH)";[H]OC1=CC(O[H])=CC=C1;37;21.1;2;11.1;6;2;4;8;0.500;0.42;0.222
+Substructure_0176;"2,4-dihydroxy-R-phenyl-R, defined (3H; CH)";[R]C1=C(C([H])=C(C([H])=C1O)O)[H];11;6.29;2;11.1;6;3;3;8;0.375;0.17;0.292
+Substructure_0177;3-trifluoromethylphenyl-R;[R]C1=CC=CC(C(F)(F)F)=C1;2;1.14;1;5.56;5;0;5;10;0.500;0.02;0.111
+Substructure_0179;butylhexylamine-R;CCCCNCCCCCC;6;3.43;3;16.7;23;0;23;11;2.09;0.02;0.0797
+Substructure_0181;"2,4-dihydroxy-H-phenyl-R, defined (2H; OH)";[R]C1=CC=C(O[H])C=C1O[H];37;21.1;2;11.1;6;2;4;8;0.500;0.42;0.222
+Substructure_0184;ethylheptylamine-R;CCNCCCCCCC;3;1.71;2;11.1;21;0;21;10;2.10;0.01;0.0529
+Substructure_0191;"isopropanol-H, defined (3H; OH, CH, CH)";[R]CC(C([H])([R])[H])O[H];5;2.86;3;16.7;8;3;5;4;1.25;0.02;0.133
+Substructure_0193;"2-hydroxy-R-phenyl-R, defined (4H; CH)";[R]C1=C(C([H])=C(C([H])=C1O)[H])[H];16;9.14;3;16.7;6;4;2;7;0.286;0.32;0.575
+Substructure_0195;"isopropanol-H, defined (3H; OH, CH)";[H]C([R])C(C([R])[H])O[H];8;4.57;5;27.8;8;3;5;4;1.25;0.04;0.222
+Substructure_0198;"ethanol-R-amine-R, defined (4H; CH)";NC([H])([H])C([H])([H])O;2;1.14;2;11.1;7;4;3;4;0.750;0.02;0.148
+Substructure_0200;carboxylic acid-H, defined (1H: OH);[R]C(O[H])=O;20;11.4;2;11.1;2;1;1;3;0.333;0.35;0.337
+Substructure_0201;"isopropyl, defined (7H; CH)";[R]C(C([H])([H])[H])([H])C([H])([H])[H];20;11.4;3;16.7;8;7;1;3;0.333;0.35;0.505
+Substructure_0208;"ethanol-H-amine-R, defined (1H; OH)";NCCO[H];26;14.9;6;33.3;7;1;6;4;1.50;0.10;0.222
+Substructure_0209;"3,5-dihydroxy-H-phenyl-R, defined (2H; OH)";[R]C1=CC(O[H])=CC(O[H])=C1;37;21.1;2;11.1;6;2;4;8;0.500;0.42;0.222
+Substructure_0210;"4-chlorophenyl-R, defined (4H; CH)";[R]C1=C(C([H])=C(C([H])=C1[H])Cl)[H];2;1.14;2;11.1;5;4;1;7;0.143;0.08;0.794
+Substructure_0211;imidazole;C1=CN=CN1;4;2.29;1;5.56;4;0;4;5;0.800;0.03;0.0694
+Substructure_0213;"acetyl, defined (3H; CH)";O=C([R])C([H])([H])[H];4;2.29;3;16.7;4;3;1;3;0.333;0.07;0.505
+Substructure_0216;4-bromophenyl-R;[R]C1=CC=C(Br)C=C1;1;0.571;1;5.56;5;0;5;7;0.714;0.01;0.0782
+Substructure_0217;chromane;C1(CCCO2)=C2C=CC=C1;1;0.571;1;5.56;10;0;10;10;1.00;0.01;0.0556
+Substructure_0218;2,4,6-trihydroxy-R-phenyl-R, defined (3H: CH);[R]C1=C(O)C([H])=C(C([H])=C1O)O;44;25.1;2;11.1;6;2;4;9;0.444;0.57;0.253
+Substructure_0221;p-phenylene-R-diamine-R;NC1=CC=C(N)C=C1;1;0.571;1;5.56;8;0;8;8;1.00;0.01;0.0556
+Substructure_0222;"ethoxy-H, defined (5H; CH)";[R]OC([H])(C([H])([H])[H])[H];2;1.14;1;5.56;6;5;1;3;0.333;0.03;0.168
+Substructure_0223;"ethylene glycol-R, defined (4H; CH)";[H]C(C([H])([H])O[R])([H])O[R];29;16.6;1;5.56;6;4;2;4;0.500;0.33;0.111
+Substructure_0224;"isopropanol-R, defined (4H; OH, CH, CH2)";[H]C([R])C(C([H])([R])[H])O[H];5;2.86;3;16.7;8;4;4;4;1.00;0.03;0.167
+Substructure_0225; methyloctylamine-R;CNCCCCCCCC;3;1.71;2;11.1;21;0;21;10;2.10;0.01;0.0529
+Substructure_0226;ethyloctylamine-R;CCNCCCCCCCC;3;1.71;2;11.1;23;0;23;11;2.09;0.01;0.0532
+Substructure_0230;"methanol-H, defined (3H; OH)";[H]OC([H])([H])[R];4;2.29;4;22.2;4;3;1;2;0.500;0.05;0.444
+Substructure_0231;propylene glycol-R;[R]OCCCO[R];3;1.71;2;11.1;8;0;8;5;1.60;0.01;0.0694
+Substructure_0232;butylene glycol-R;[R]OCCCCO[R];3;1.71;3;16.7;10;0;10;6;1.67;0.01;0.100
+Substructure_0236;methylnonylamine-R;CNCCCCCCCCC;3;1.71;2;11.1;23;0;23;11;2.09;0.01;0.0532
+Substructure_0237;ethylnonylamine-R;CCNCCCCCCCCC;3;1.71;2;11.1;25;0;25;12;2.08;0.01;0.0534
+Substructure_0238;propylene-R-diamin-R;NCCCN;13;7.43;4;22.2;10;0;10;5;2.00;0.04;0.111
+Substructure_0240;"2-nitrophenyl-R, defined (4H; CH)";[R]C1=C(C([H])=C(C([H])=C1[N+]([O-])=O)[H])[H];1;0.571;1;5.56;5;4;1;9;0.111;0.05;0.505
+Substructure_0241;thiomethyl-H, defined (3H: CH);[R]SC([H])([H])[H];3;1.71;2;11.1;4;3;1;2;0.500;0.03;0.222
+Substructure_0244;"4-bromophenyl-R, defined (4H; CH)";[R]C1=C(C([H])=C(C([H])=C1[H])Br)[H];1;0.571;1;5.56;5;4;1;7;0.143;0.04;0.397
+Substructure_0245;diphenylmethyl;C1(CC2=CC=CC=C2)=CC=CC=C1;3;1.71;3;16.7;12;0;12;13;0.923;0.02;0.181
+Substructure_0249;"2-methoxy-H-phenyl-R, defined (7H; CH)";[R]C1=C([H])C([H])=C([H])C([H])=C1OC([H])([H])[H];1;0.571;1;5.56;8;7;1;8;0.125;0.04;0.427
+Substructure_0250;oxan;C1CCCCO1;4;2.29;3;16.7;10;0;10;6;1.67;0.01;0.100
+Substructure_0253;4-trifluoromethylphenyl-R;[R]C1=CC=C(C(F)(F)F)C=C1;2;1.14;1;5.56;5;0;5;10;0.500;0.02;0.111
+Substructure_0255;propylheptylamine-R;CCCNCCCCCCC;3;1.71;2;11.1;23;0;23;11;2.09;0.01;0.0532
+Substructure_0258;"3,5-dihydroxy-R-phenyl-R, defined (3H; CH)";[R]C1=C(C(O)=C(C(O)=C1[H])[H])[H];1;0.571;1;5.56;6;3;3;8;0.375;0.02;0.146
+Substructure_0259;"ethanol-H, defined (5H; CH, OH)";[H]OC([H])([H])C([H])([H])[R];2;1.14;2;11.1;6;5;1;3;0.333;0.03;0.337
+Substructure_0261;3,5-dimethoxy-H-phenyl-R, defined (9H: CH);[R]C1=C([H])C(OC([H])([H])[H])=C([H])C(OC([H])([H])[H])=C1[H];1;0.571;1;5.56;10;9;1;10;0.100;0.06;0.556
+Substructure_0264;"diethyl-H-amino-R, defined (10H; CH)";[R]N(C(C([H])([H])[H])([H])[H])C(C([H])([H])[H])([H])[H];1;0.571;1;5.56;11;10;1;5;0.200;0.03;0.278
+Substructure_0266;pyrrolidin-R;C1CCCN1;2;1.14;1;5.56;9;0;9;5;1.80;0.01;0.0309
+Substructure_0269;"diphenylmethyl, defined (1H; CH)";[H]C(C1=CC=CC=C1)([R])C2=CC=CC=C2;2;1.14;2;11.1;12;1;11;13;0.846;0.01;0.131
+Substructure_0272;dihydropyridine-R;C1=CNC=CC1;1;0.571;1;5.56;7;0;7;6;1.17;0.00;0.0475
+Substructure_0273;benzo-1,3-dioxolan;C1(C=CC=C2)=C2OCO1;1;0.571;1;5.56;6;0;6;9;0.667;0.01;0.0829
+Substructure_0278;"isobutyl, defined (9H; CH)";[R]C(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H];3;1.71;2;11.1;10;9;1;4;0.250;0.07;0.444
+Substructure_0280;"4-fluorophenyl-R, defined (4H; CH)";[R]C1=C(C([H])=C(C([H])=C1[H])F)[H];3;1.71;1;5.56;5;4;1;7;0.143;0.12;0.397
+Substructure_0290;butanol-R-amine-R;NCCCCO;5;2.86;4;22.2;11;0;11;6;1.83;0.02;0.121
+Substructure_0291;"phenylpropyl, defined (6H; CH)";[H]C(C(C([H])([R])[H])([H])[H])([H])C1=CC=CC=C1;5;2.86;2;11.1;12;6;6;9;0.667;0.04;0.166
+Substructure_0297;methanol-R-amine-R;NCO;1;0.571;1;5.56;5;0;5;3;1.67;0.00;0.0333
+Substructure_0298;"propanol-H-amine-R, defined (1H; OH)";NCCCO[H];3;1.71;1;5.56;9;1;8;5;1.60;0.01;0.0347
+Substructure_0299;oxolan;C1CCCO1;1;0.571;1;5.56;8;0;8;5;1.60;0.00;0.0347
+Substructure_0303;"isopropanol-R, defined (3H; CH)";[H]C([H])([R])C(C([H])([R])[H])O[H];4;2.29;3;16.7;8;5;3;4;0.750;0.03;0.222
+Substructure_0306;"ethanol-H-amine-N-H-R, defined (2H; NH, OH)";[H]NCCO[H];22;12.6;3;16.7;7;2;5;4;1.25;0.10;0.133
+Substructure_0307;"propanol-R-amine-N-H-R, defined (1H; NH)";OCCCN[H];4;2.29;2;11.1;9;1;8;5;1.60;0.01;0.0694
+Substructure_0312;hydroquinone-R;OC1=CC=C(O)C=C1;4;2.29;3;16.7;6;0;6;8;0.750;0.03;0.222
+Substructure_0318;"2-amino-H-phenyl-R, defined (2H; NH)";[R]C1=CC=CC=C1N([H])[H];1;0.571;1;5.56;7;2;5;7;0.714;0.01;0.0782
+Substructure_0319;"dimethyl-H-amino-R, defined (6H; CH)";N(C([H])([H])[H])C([H])([H])[H];3;1.71;2;11.1;7;6;1;3;0.333;0.05;0.337
+Substructure_0320;butylene-R-diamine-R;NCCCCN;24;13.7;3;16.7;12;0;12;6;2.00;0.07;0.0833
+Substructure_0323;"4-thiomethyl-H-phenyl-R, defined (3H; CH)";[R]C1=CC=C(SC([H])([H])[H])C=C1;1;0.571;1;5.56;8;3;5;8;0.625;0.01;0.0882
+Substructure_0327;o-phenylene-R-diamine-R;NC1=CC=CC=C1N;1;0.571;1;5.56;8;0;8;8;1.00;0.01;0.0556
+Substructure_0330;glycine-R;NCC(O)=O;19;10.9;1;5.56;5;0;5;5;1.00;0.11;0.0556
+Substructure_0335;"butylene-R-diamine-H, defined (2H; NH)";N(CCCCN()[H])[H];19;10.9;1;5.56;12;2;10;6;1.67;0.07;0.0333
+Substructure_0337;"propanol-H-amine-N-H-R, defined (2H; NH; OH)";[H]NCCCO[H];3;1.71;1;5.56;9;2;7;5;1.40;0.01;0.0397
+Substructure_0340;"3-thiomethyl-H-phenyl-R, defined (3H; CH)";[R]C1=CC=CC(SC([H])([H])[H])=C1;1;0.571;1;5.56;8;3;5;8;0.625;0.01;0.0882
+Substructure_0346;isoflavone;O=C(C(C1=CC=CC=C1)=CO2)C3=C2C=CC=C3;2;1.14;1;5.56;10;0;10;17;0.588;0.02;0.0942
+Substructure_0347;alanine-R;CC(C(=O)O)N;19;10.9;1;5.56;7;0;7;6;1.17;0.09;0.0475
+Substructure_0349;propyloctylamine-R;CCCNCCCCCCCC;1;0.571;1;5.56;25;0;25;12;2.08;0.00;0.0267
+Substructure_0355;"4-amino-H-phenyl-R, defined (6H; CH; NH)";[R]C1=C(C([H])=C(N([H])[H])C([H])=C1[H])[H];1;0.571;1;5.56;7;6;1;7;0.143;0.04;0.397
+Substructure_0356;"4-amino-H-phenyl-R, defined (2H; NH)";[R]C1=CC=C(N([H])[H])C=C1;3;1.71;2;11.1;7;2;5;7;0.714;0.02;0.156
+Substructure_0357;"propylene-H-diamin-R, defined (6H; CH) ";NC([H])([H])C([H])([H])C([H])([H])N;6;3.43;1;5.56;10;6;4;5;0.800;0.04;0.0694
+Substructure_0358;"butanol-H-amine-R, defined (1H; OH)";NCCCCO[H];4;2.29;3;16.7;11;1;10;6;1.67;0.01;0.100
+Substructure_0359;"butanol-R-amine-N-H-R, defined (1H; NH)";OCCCCN[H];2;1.14;2;11.1;11;1;10;6;1.67;0.01;0.0665
+Substructure_0360;"ethanol-H-amine-R, defined (5H; CH, OH)";NC([H])([H])C([H])([H])O[H];2;1.14;2;11.1;7;5;2;4;0.500;0.02;0.222
+Substructure_0361;"2,6-dihydroxy-H-phenyl-R, defined (2H; OH)";[R]C1=C(O[H])C=CC=C1O[H];3;1.71;1;5.56;6;2;4;8;0.500;0.03;0.111
+Substructure_0367;7H-purine-R;C12=C(C=NC=N2)NC=N1;4;2.29;1;5.56;4;0;4;9;0.444;0.05;0.126
+Substructure_0368;9H-purine-R;C1(NC=N2)=C2C=NC=N1;4;2.29;1;5.56;4;0;4;9;0.444;0.05;0.126
+Substructure_0370;"2,5-dihydroxy-R-phenyl-R, defined 3H; CH)";[R]C1=C(C(O)=C(C([H])=C1O)[H])[H];1;0.571;1;5.56;6;3;3;8;0.375;0.02;0.146
+Substructure_0375;methyldecylamine-R;CNCCCCCCCCCC;1;0.571;1;5.56;25;0;25;12;2.08;0.00;0.0267
+Substructure_0386;iodine-R;[R]I;12;6.86;2;11.1;1;0;1;1;1.00;0.07;0.111
+Substructure_0388; indoline-R;C12=C(NCC2)C=CC=C1;2;1.14;1;5.56;9;0;9;9;1.00;0.01;0.0556
+Substructure_0390;"3-pyridylmethyl-R, defined (2H; CH)";[R]C([H])([H])C1=CC=CN=C1;1;0.571;1;5.56;7;2;5;7;0.714;0.01;0.0782
+Substructure_0400;butylheptylamine-R;CCCCNCCCCCCC;1;0.571;1;5.56;25;0;25;12;2.08;0.00;0.0267
+Substructure_0411;"3-amino-H-phenyl-R, defined (2H; NH)";[R]C1=CC=CC(N([H])[H])=C1;3;1.71;2;11.1;7;2;5;7;0.714;0.02;0.156
+Substructure_0416;"methyl-H-amino-H, defined (4H; CH; NH)";[R]N(C([H])([H])[H])[H];2;1.14;2;11.1;5;4;1;2;0.500;0.02;0.222
+Substructure_0417;"butanol-H-amine-N-H-R, defined (2H; NH; OH)";[H]NCCCCO[H];2;1.14;2;11.1;11;2;9;6;1.50;0.01;0.0741
+Substructure_0424;4-iodophenyl-R;[R]C1=CC=C(I)C=C1;2;1.14;1;5.56;5;0;5;7;0.714;0.02;0.0782
+Substructure_0426;tetrahydronaphthalene;C12=C(C=CC=C2)CCCC1;1;0.571;1;5.56;12;0;12;10;1.20;0.00;0.0463
+Substructure_0434;"vinyl, defined (3H; CH)";[R]/C([H])=C([H])/[H];2;1.14;1;5.56;4;3;1;2;0.500;0.02;0.111
+Substructure_0480;"4-iodophenyl-R, defined (4H; CH)";[R]C1=C(C([H])=C(C([H])=C1[H])I)[H];1;0.571;1;5.56;5;4;1;7;0.143;0.04;0.397
+Substructure_0481;"3-pyridylmethyl-R, defined (6H; CH)";[R]C([H])(C1=C([H])C([H])=C([H])N=C1[H])[H];1;0.571;1;5.56;7;6;1;7;0.143;0.04;0.397
+Substructure_0524;"ethylene-H-diamine-H, defined (6H; CH, NH)";N([H])C([H])(C([H])(N([H]))[H])[H];1;0.571;1;5.56;8;6;2;4;0.500;0.01;0.111
+Substructure_0530;azecane-R;C1CCCCCCCNC1;1;0.571;1;5.56;19;0;19;10;1.90;0.00;0.0292
+Substructure_0531;"3,4-dihydroxy-H-phenyl-R, defined (5H; CH; OH)";[R]C1=C(C([H])=C(C(O[H])=C1[H])O[H])[H];4;2.29;1;5.56;6;5;1;8;0.125;0.18;0.427
+Substructure_0532;"3,4-dihydroxy-H-phenyl-R, defined (2H; OH)";[R]C1=CC=C(O[H])C(O[H])=C1;6;3.43;2;11.1;6;2;4;8;0.500;0.07;0.222
+Substructure_0533;"2,3-dihydroxy-R-phenyl-R, defined (3H; CH)";[R]C1=C(C([H])=C(C(O)=C1O)[H])[H];4;2.29;1;5.56;6;3;3;8;0.375;0.06;0.146
+Substructure_0539;"thiomethyl-H-methane-R, defined (5H; CH)";[R]C([H])([H])SC([H])([H])[H];2;1.14;1;5.56;6;5;1;3;0.333;0.03;0.168
+Substructure_0541;"thiomethyl-H-ethane-R, defined (7H; CH)";[R]C([H])([H])C([H])([H])SC([H])([H])[H];1;0.571;1;5.56;8;7;1;4;0.250;0.02;0.222
+Substructure_0553;2-iodophenyl-R;[R]C1=CC=CC=C1I;11;6.29;2;11.1;5;0;5;7;0.714;0.09;0.156
+Substructure_0555;3-iodophenyl-R;[R]C1=CC=CC(I)=C1;11;6.29;2;11.1;5;0;5;7;0.714;0.09;0.156
+Substructure_0561;indan;C1(C=CC=C2)=C2CCC1;1;0.571;1;5.56;10;0;10;9;1.11;0.01;0.0501
+Substructure_0568;decahydroisoquinoline-R;C12CNCCC1CCCC2;1;0.571;1;5.56;17;0;17;10;1.70;0.00;0.0327
+Substructure_0583;"glycine-R, defined (1H; NH)";[H]NCC(O)=O;19;10.9;1;5.56;5;1;4;5;0.800;0.14;0.0694
+Substructure_0584;"glycin-R, defined (1H; OH)";NCC(O[H])=O;19;10.9;1;5.56;5;1;4;5;0.800;0.14;0.0694
+Substructure_0607;"glycine-R, defined (2H; NH)";[H]N([H])CC(O)=O;19;10.9;1;5.56;5;2;3;5;0.600;0.18;0.0926
+Substructure_0608;"ethanol-R-amine-N-H-R, defined (5H; CH, NH)";OC([H])([H])C([H])([H])N[H];1;0.571;1;5.56;7;5;2;4;0.500;0.01;0.111
+Substructure_0609;"ethylene-R-diamine-H, defined (2H; NH)";[H]NCCN[H];20;11.4;2;11.1;8;2;6;4;1.50;0.08;0.0741
+Substructure_0613;"glycin-R, defined (2H; NH, OH)";O=C(O[H])CN[H];19;10.9;1;5.56;5;2;3;5;0.600;0.18;0.0926
+Substructure_0614;"glycin-R, defined (3H; NH, OH)";O=C(O[H])CN([H])[H];19;10.9;1;5.56;5;3;2;5;0.400;0.27;0.139
+Substructure_0615;glutamine-R;C(CC(=O)N)C(C(=O)O)N;19;10.9;1;5.56;10;0;10;10;1.00;0.11;0.0556
+Substructure_0618;dihydrofuan-2-one;O=C1OCCC1;1;0.571;1;5.56;6;0;6;6;1.00;0.01;0.0556
+Substructure_0623;"tert-butyl-H-amino-H, defined (10H; CH, NH)";N(C(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])[H];2;1.14;1;5.56;11;10;1;5;0.200;0.06;0.278
+Substructure_0625;aznonane-R;C1CCCCCCNC1;2;1.14;1;5.56;17;0;17;9;1.89;0.01;0.0294
+Substructure_0629;"butylene-H-diamine-R, defined (8H; CH)";NC([H])([H])C([H])([H])C([H])([H])C([H])([H])N;3;1.71;1;5.56;12;8;4;6;0.667;0.03;0.0829
+Substructure_0636;"ethanol-H-amine-N-H-R, defined (6H; CH, NH, OH)";[H]C([H])(C([H])(N[H])[H])O[H];1;0.571;1;5.56;7;6;1;4;0.250;0.02;0.222
+Substructure_0637;1,3-dioxane;C1CCOCO1;1;0.571;1;5.56;8;0;8;6;1.33;0.00;0.0418
+Substructure_0640;octahydroindole-R;C12C(CCCC2)NCC1;2;1.14;1;5.56;15;0;15;9;1.67;0.01;0.0333
+Substructure_0642;hydroquinone-H, defined (2H, OH);[H]OC(C=C1)=CC=C1O[H];1;0.571;1;5.56;6;2;4;8;0.500;0.01;0.111
+Substructure_0652;aldehyde;[R]C([H])=O;2;1.14;2;11.1;2;1;1;2;0.500;0.02;0.222
+Substructure_0654;"2,5-dihydroxy-H-phenyl-R, defined (2H; OH)";[R]C1=CC(O[H])=CC=C1O[H];1;0.571;1;5.56;6;2;4;8;0.500;0.01;0.111
+Substructure_0686;"thiol-H (1H; SH)";[R]S[H];3;1.71;1;5.56;2;1;1;1;1.00;0.02;0.0556
+Substructure_0687;"methanethiol-H (3H; CH, SH)";[H]SC([H])([H])[R];3;1.71;1;5.56;4;3;1;2;0.500;0.03;0.111
+Substructure_0700;2,6-diiodophenyl-R;[R]C1=C(I)C=CC=C1I;5;2.86;1;5.56;4;0;4;8;0.500;0.06;0.111
+Substructure_0701;3,5-diiodophenyl-R;[R]C1=CC(I)=CC(I)=C1;5;2.86;1;5.56;4;0;4;8;0.500;0.06;0.111
+Substructure_0716;1,2,3,5,8,8a-hexahydroindolizine;N12CC=CCC1CCC2;2;1.14;1;5.56;13;0;13;9;1.44;0.01;0.0386
+Substructure_0719;ethylene-R-diamine-R;NCCN;30;17.1;6;33.3;8;0;8;4;2.00;0.09;0.167
+Substructure_0720;1,3-dithiane;C1CCSCS1;15;8.57;1;5.56;8;0;8;6;1.33;0.06;0.0418
+Substructure_0721;1,3-dithiane tetraoxid;O=S(CCCS1(=O)=O)(C1)=O;5;2.86;1;5.56;8;0;8;10;0.800;0.04;0.0694
+Substructure_0722;"thioethyl-H, defined (5H; CH)";[R]SC([H])(C([H])([H])[H])[H];2;1.14;2;11.1;6;5;1;3;0.333;0.03;0.337
+Substructure_0723;"2,6-dihydroxy-R-phenyl-R, defined (3H; CH)";[R]C1=C(O)C([H])=C(C([H])=C1O)[H];2;1.14;2;11.1;6;3;3;8;0.375;0.03;0.292
+Substructure_0724;"2,4,5-trihydroxy-R-phenyl-R, defined (2H; CH)";[R]C1=C(C(O)=C(C([H])=C1O)O)[H];2;1.14;1;5.56;6;2;4;9;0.444;0.03;0.126
+Substructure_0725;2,4,6-cyclohepten-1-on;O=C1C=CC=CC=C1;1;0.571;1;5.56;6;0;6;8;0.750;0.01;0.0741
+Substructure_0726;azido;[N-]=[N+]=N[R];1;0.571;1;5.56;1;0;1;3;0.333;0.02;0.168
+Substructure_0727;"2,3-dihydroxy-H-phenyl-R, defined (2H; OH)";[R]C1=CC=CC(O[H])=C1O[H];1;0.571;1;5.56;6;2;4;8;0.500;0.01;0.111
+Substructure_0728;"3,4,5-trihydroxy-H-phenyl-R,defined (5H; CH, OH)";[R]C1=C(C(O[H])=C(C(O[H])=C1[H])O[H])[H];1;0.571;1;5.56;6;5;1;9;0.111;0.05;0.505
+Substructure_0729;"3,4,5-trihydroxy-H-phenyl-R,defined (3H; OH)";[R]C1=CC(O[H])=C(O[H])C(O[H])=C1;1;0.571;1;5.56;6;3;3;9;0.333;0.02;0.168
+Substructure_0730;"3-thioethyl-H-phenyl-R, defined (5H; CH)";[R]C1=CC=CC(SC([H])(C([H])([H])[H])[H])=C1;1;0.571;1;5.56;10;5;5;9;0.556;0.01;0.0992
+Substructure_0731;"4-thioethyl-H-phenyl-R, defined (5H; CH)";[R]C1=CC=C(SC([H])(C([H])([H])[H])[H])C=C1;1;0.571;1;5.56;10;5;5;9;0.556;0.01;0.0992
+Substructure_0732;"thioethyl-H-methane-R, defined (7H; CH)";[R]C([H])([H])SC(C([H])([H])[H])([H])[H];1;0.571;1;5.56;8;7;1;4;0.250;0.02;0.222
+Substructure_0733;"thiobutyll-H, defined (9H; CH)";[R]SC(C([H])(C([H])(C([H])([H])[H])[H])[H])([H])[H];1;0.571;1;5.56;10;9;1;5;0.200;0.03;0.278
+Substructure_0734;carbazole;C1(C(C=CC=C2)=C2N3)=C3C=CC=C1;1;0.571;1;5.56;9;0;9;13;0.692;0.01;0.0805

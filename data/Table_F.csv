@@ -1,0 +1,6 @@
+﻿SMILES of Virtual Hit Molecule;Enamine ID;Rank
+O=C(OC(C(=O)N1c2c(Sc3c1cccc3)cccc2)C)Cn1c2ncnc(N)c2nc1;Z1352237755;1
+Clc1cc2N(C(=O)C(C)n3c4C(=O)N(C)C(=O)N(C)c4nc3)c3c(Sc2cc1)cccc3;Z114733312;2
+Clc1cc2OC(C(=O)Nc3ncnc4[nH]cnc34)=CC(=O)c2cc1;s_11____15479184____11355432;3
+S(CC(=O)N1c2c(Sc3c1cccc3)ccc(SC)c2)c1[nH]c2c(n1)ncnc2;Z1729865792;4
+S(CC(=O)N1c2c(Sc3c1cccc3)ccc(SC)c2)c1ncnc2[nH]cnc12;Z1227796155;4
