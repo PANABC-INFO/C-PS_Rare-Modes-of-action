@@ -1,0 +1,2 @@
+rdkit==rdkit-2024.3.1
+pandas==version
